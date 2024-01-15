@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Gustavo Mello</title>
+    <link>https://GustavoAmorimMello.github.io/GustavoMello_Portfolio/post/</link>
+    <description>Recent content in Projects on Gustavo Mello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Jan 2024 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://GustavoAmorimMello.github.io/GustavoMello_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sales Dashboard Overview: Power Bi Visualization</title>
+      <link>https://GustavoAmorimMello.github.io/GustavoMello_Portfolio/post/project-2/</link>
+      <pubDate>Sun, 14 Jan 2024 11:00:59 -0400</pubDate>
+      <guid>https://GustavoAmorimMello.github.io/GustavoMello_Portfolio/post/project-2/</guid>
+      <description>In this dashboard I built you will be able to:&#xA;Analyse the total revenue per month in a area chart where I included a tooltip to show the total profit and cost in percentage in a columm chart, total revenue and the product most saled. Analyse the most sold products in a stacked bar chart to show thr ranking. Analyse the 5 biggest clients the bought the products in a treemap chart.</description>
+    </item>
+    <item>
+      <title>Sales Dashboard: Profit, costs, Revenues.</title>
+      <link>https://GustavoAmorimMello.github.io/GustavoMello_Portfolio/post/project-1/</link>
+      <pubDate>Sun, 14 Jan 2024 10:58:08 -0400</pubDate>
+      <guid>https://GustavoAmorimMello.github.io/GustavoMello_Portfolio/post/project-1/</guid>
+      <description>You will be able to see:&#xA;A sales report with a columm chart to visualize the total revenues per month, and boxes showing the total revenue and the quantity saled. A cost report with the costs per month in a columm chart, and fixed boxes with total costs, total inventory cost, total production cost, total transport cost. A profit report with the profit per month in a columm chart, and fixed boxes showing total revenue, total costs, total profit and profit margin.</description>
+    </item>
+  </channel>
+</rss>
